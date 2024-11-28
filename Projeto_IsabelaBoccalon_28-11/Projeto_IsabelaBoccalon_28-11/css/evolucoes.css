@@ -1,0 +1,53 @@
+main .pokemon {
+  max-width: 500px;
+  padding: 15px;
+  padding-top: 20px;
+  padding-bottom: 70px;
+}
+table tr {
+  color: beige;
+}
+table td {
+  text-align: center;
+}
+table {
+  display: block;
+  position: relative;
+  bottom: 33000px;
+  left: 725px;
+  padding: 20px;
+  border: none;
+}
+table img {
+  width: 150px;
+}
+#bulbasaur table {
+  position: absolute;
+  top: 175px;
+}
+#charmander table {
+  position: absolute;
+  top: 750px;
+}
+#squirtle table {
+  position: absolute;
+  top: 1350px;
+}
+#caterpie table {
+  position: absolute;
+  top: 1900px;
+}
+#pichu table {
+  left: 650px;
+  position: absolute;
+  top: 2550px;
+}
+#psyduck table {
+  position: absolute;
+  top: 3175px;
+}
+footer {
+  bottom: 0;
+  top: 3550px;
+  height: 35%;
+}
